@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AggarwalVansh?tab=repositories](https://github.com/AggarwalVansh?tab=repositories)
 
-- 💬 Ask me about **Discord Bot Development**
+- 💬 Msg me on discord for help in my projects **@ra.pist**
 
 - ⚡ Fun fact **I dont use windows for coding 😉**
 
