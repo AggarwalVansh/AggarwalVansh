@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aggvans" target="blank"><img src="https://img.shields.io/twitter/follow/aggvans?logo=twitter&style=for-the-badge" alt="aggvans" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **WhisperLink**
 
 - 🌱 I’m currently learning **C and C++**
 
