@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👯 I’m looking to collaborate on [Chat App](https://github.com/AggarwalVansh/Chat-App)
+- 👯 I’m looking to collaborate on [WhisperLink](https://github.com/AggarwalVansh/WhisperLink)
 
 - 🤝 I’m looking for help with **Nodejs**
 
