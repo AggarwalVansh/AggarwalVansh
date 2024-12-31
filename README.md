@@ -17,7 +17,7 @@
 
 ## 📫 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aggvans)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/aggvans)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vqn.zh)
 [![Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/8JHHcujJHx)
 
