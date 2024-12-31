@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [**WhisperLink**](https://github.com/AggarwalVansh/WhisperLink)
 - 🌱 I’m currently learning **C++**
-- 🤔 I’m looking for help with **C++**
-- 💬 Ask me about **Javascript**
 - 📫 How to reach me: **connect.vanshaggarwal@gmail.com**
 - ⚡ Fun fact: im just 16
 
