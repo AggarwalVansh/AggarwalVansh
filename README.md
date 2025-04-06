@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [**WhisperLink**](https://github.com/AggarwalVansh/WhisperLink)
+- 🔭 I’m currently working on [**WhisprAI**](https://whisprai.onrender.com/)
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me: **connect.vanshaggarwal@gmail.com**
 - ⚡ Fun fact: im just 16
