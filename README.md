@@ -21,7 +21,7 @@
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/aggvans)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vqn.zh)
 [![Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/8JHHcujJHx)
-[![BuyMeACoffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/messymice)
+[![BuyMeACoffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/messymice)
 
 
 ## 📈 GitHub Stats
