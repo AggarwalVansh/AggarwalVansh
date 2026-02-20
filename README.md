@@ -4,10 +4,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [**WhisprAI**](https://whisprai.onrender.com/)
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AI/ML**
 - 📫 How to reach me: **connect.vanshaggarwal@gmail.com**
-- ⚡ Fun fact: im just 16
+- ⚡ Fun fact: im just 17
 
 ## 🛠️ Languages and Tools
 
