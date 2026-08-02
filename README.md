@@ -1,36 +1,111 @@
-<h1 align="center">Hi 👋, I'm Vansh Aggarwal</h1>
-<p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and sharing knowledge. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aggarwalvansh&label=Profile%20views&color=0e75b6&style=flat" alt="aggarwalvansh" /> </p>
+<div align="center">
 
-## 🚀 About Me
+# Vansh Aggarwal
 
-- 🌱 I’m currently learning **AI/ML**
-- 📫 How to reach me: **connect.vanshaggarwal@gmail.com**
-- ⚡ Fun fact: im just 17
+### Software Developer • AI Engineer in Progress • Full Stack Developer
 
-## 🛠️ Languages and Tools
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things.;AI+%7C+Full+Stack+%7C+Open+Source.;Turning+ideas+into+reality." />
 
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- **Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-Typescript-2d79c7?style=flat&logo=typescript&logoColor=white) ![tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-0F172A?&logo=tailwindcss) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![socket.io](https://img.shields.io/badge/Socket.io-010101??style=flat-square&logo=Socket.io&logoColor=white)
-- **Tools and Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) ![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=linux&logoColor=black)  
+<br>
 
-## 📫 Connect with Me
+<a href="https://linktr.ee/AggarwalVansh">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
 
-[![LinkTree](https://img.shields.io/badge/-LinkTree-FFFFFF?style=flat&logo=linktree&logoColor=Green)](https://linktr.ee/AggarwalVansh)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/aggvans)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vqn.zh)
-[![Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/8JHHcujJHx)
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/messymice)
+<a href="https://instagram.com/vqn.zh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+<a href="https://twitter.com/aggvans">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-## 📈 GitHub Stats
+<a href="mailto:connect.vanshaggarwal@gmail.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Vansh Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggarwalVansh&show_icons=true&theme=radical)
-
-![Vansh Aggarwal's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aggarwalvansh&show_icons=true&locale=en&layout=compact&theme=radical)
-
-![Vansh Aggarwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aggarwalvansh&theme=radical)
-
-Thanks for visiting my profile, and feel free to check out my repositories and get in touch!
+</div>
 
 ---
+
+## 🚀 About
+
+```txt
+> Building software that solves real problems.
+> Currently diving deeper into AI & Machine Learning.
+> Open to collaborations on interesting projects.
+```
+
+---
+
+## ⚡ Current Focus
+
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- ⚙️ System Design
+- 🚀 Open Source
+- 💡 Building products people actually use
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,linux,vscode&perline=8"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧬 VoiceDNA | AI-powered Voice Authentication System |
+| 🌐 Portfolio | Personal Website |
+| 🤖 AI Projects | Machine Learning Experiments |
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AggarwalVansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggarwalVansh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AggarwalVansh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AggarwalVansh&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AggarwalVansh/AggarwalVansh/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+> *"Keep shipping."*
+
+</div>
