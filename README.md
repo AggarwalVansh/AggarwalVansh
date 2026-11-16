@@ -1,62 +1,163 @@
-## ~/whoami
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=58A6FF&width=500&lines=vansh%40github%3A~%24+whoami;Software+Developer;AI+Enthusiast;Full+Stack+Developer;Always+Building+Something+Cool..." />
-</p>
+<!--
+  VANSH AGGARWAL | GitHub Profile README
+  Minimal • Modern • Developer-focused
+-->
 
-```console
+<div align="center">
+
+  <h1>Vansh Aggarwal</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Software+Developer;AI+Enthusiast;Founder+of+Eltique;Building+things+that+matter." alt="Typing SVG" />
+
+  <p>
+    Turning ideas into software, one commit at a time.
+  </p>
+
+  <p>
+    <a href="https://vanshaggarwal.is-a.dev/"><strong>Portfolio ↗</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://linktr.ee/AggarwalVansh"><strong>Linktree ↗</strong></a>
+  </p>
+
+</div>
+
+---
+
+### `whoami`
+
+```bash
 vansh@github:~$ whoami
+
 Vansh Aggarwal
 
-vansh@github:~$ role
-Software Developer
+vansh@github:~$ cat about.txt
 
-vansh@github:~$ skills
-Python • JavaScript • TypeScript
-React • Next.js • Express
+Software Developer and AI enthusiast.
 
-vansh@github:~$ currently
-Learning Artificial Intelligence
-Building Full Stack Applications
+I build AI-powered applications, modern web experiences,
+and software designed to solve real-world problems.
 
-vansh@github:~$ status
-Building cool stuff...
+Interested in artificial intelligence, full-stack
+development, and creating useful digital products.
+
+vansh@github:~$ _
 ```
 
 ---
 
-## system_info
+### `what_i_build`
+
+<div align="center">
+
+  <h2>Ideas into impact.</h2>
+
+  <p>
+    Building technology that goes beyond code.
+    Exploring ideas, creating products, and turning
+    ambitious concepts into meaningful experiences.
+  </p>
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · ELTIQUE</h3>
+      <p><strong>Founder &nbsp; / &nbsp; Startup</strong></p>
+      <p>Innovation-driven organization building digital products, tools & technology solutions.</p>
+      <p>
+        <a href="https://github.com/eltique">GitHub ↗</a>
+        &nbsp; · &nbsp;
+        <a href="https://www.linkedin.com/company/eltique/">LinkedIn ↗</a>
+      </p>
+      <p><sub>Founded by <a href="https://github.com/AggarwalVansh">@AggarwalVansh</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · AI & DEVELOPMENT</h3>
+      <p><strong>Explore &nbsp; / &nbsp; Build &nbsp; / &nbsp; Innovate</strong></p>
+      <p>Developing AI-powered applications, modern web experiences, developer tools, and software solutions.</p>
+      <p>
+        <code>Artificial Intelligence</code>
+        <code>Full Stack</code>
+        <code>Innovation</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `tech_stack`
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+**Frontend & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+### `currently`
 
 ```yaml
-Host:
-  Acer Predator Helios 300 PH315-51
+role:
+  - Software Developer
+  - AI Enthusiast
+  - Founder @ Eltique
 
-CPU:
-  Intel Core i7-8750H
+learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Modern Full Stack Development
 
-GPU:
-  NVIDIA GTX 1050 Ti
+building:
+  - AI-powered Applications
+  - Modern Web Experiences
+  - Digital Products & Tools
+  - Eltique
 
-Memory:
-  16 GB DDR4
-
-Editor:
-  Visual Studio Code
-
-Operating Systems:
-  Linux Mint
-  Windows 11 (Dual Boot)
-
-Languages:
-  Python
-  JavaScript
-  TypeScript
+interests:
+  - Generative AI
+  - Developer Tools
+  - Open Source
+  - Intelligent Systems
 ```
 
 ---
 
+### `featured_projects`
 
+Explore my projects, experiments, and latest work.
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+<div align="center">
+
+  <a href="https://vanshaggarwal.is-a.dev/"><strong>Explore Portfolio ↗</strong></a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <p><i>"Always learning. Always building. Never settling."</i></p>
+
+  <strong>Founder @ Eltique · Developer @ Heart</strong>
+
+  <br/><br/>
+
+  Let's build something interesting.
+
+</div>
